@@ -1,0 +1,183 @@
+[
+    {
+        "title": "The Getaway",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_Getaway_(Red_Hot_Chili_Peppers_album)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Thegetawayalbum.jpg",
+        "altText": "Album cover of The Getaway by The Red Hot Chili Peppers",
+        "text": "The Getaway is the eleventh studio album by American rock band Red Hot Chili Peppers, released through Warner Bros on June 17, 2016.",
+        "artist": "The Red Hot Chili Peppers"
+
+    },
+    {
+        "title": "Stadium Arcadium",
+        "wikiLink": "https://en.wikipedia.org/wiki/Stadium_Arcadium",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Stadiumarcadium.jpg",
+        "altText": "Album cover of Stadium Arcadium by The Red Hot Chili Peppers",
+        "text": "Stadium Arcadium is the ninth studio album by American rock band Red Hot Chili Peppers. It was a double-album, first released in Germany on May 5, 2006, and released on May 9, 2006 in the United States on Warner Bros Records.",
+        "artist": "The Red Hot Chili Peppers"
+
+    },
+    {
+        "title": "Dizzy Up the Girl",
+        "wikiLink": "https://en.wikipedia.org/wiki/Dizzy_Up_the_Girl",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/Goo_Goo_Dolls_-_Dizzy_Up_the_Girl.png",
+        "altText": "Album cover of Dizzy Up the Girl by The Goo Goo Dolls",
+        "text": "Dizzy Up the Girl is the sixth studio album by American rock band the Goo Goo Dolls, released on September 22, 1998, through Warner Bros Records.",
+        "artist": "The Goo Goo Dolls"
+
+    },
+    {
+        "title": "Jagged Little Pill",
+        "wikiLink": "https://en.wikipedia.org/wiki/Jagged_Little_Pill",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/47/Alanis_Morissette_-_Jagged_Little_Pill.jpg",
+        "altText": "Album cover of Jagged Little Pill by Alanis Morissette",
+        "text": "Jagged Little Pill is the third studio album by Canadian-American singer Alanis Morissette, released by Maverick on June 13, 1995.",
+        "artist": "Alanis Morissette"
+
+    },    
+    {
+        "title": "Rumours",
+        "wikiLink": "https://en.wikipedia.org/wiki/Rumours_(album)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+        "altText": "Album cover of Rumours by Fleetwood Mac",
+        "text": "Rumours is the eleventh studio album by the British-American rock band Fleetwood Mac, released on 4 February 1977, by Warner Bros. Records.",
+        "artist": "Fleetwood Mac"
+
+    },   
+    {
+        "title": "Preacher's Daughter",
+        "wikiLink": "https://en.wikipedia.org/wiki/Preacher%27s_Daughter",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Preachers_daughter_ethel_cain.png",
+        "altText": "Album cover of Preacher's Daughter by Ethel Cain",
+        "text": "Preacher's Daughter is the debut studio album by American singer-songwriter and record producer Ethel Cain.",
+        "artist": "Ethel Cain"
+
+    },    
+    {
+        "title": "Dark Matter",
+        "wikiLink": "https://en.wikipedia.org/wiki/Dark_Matter_(Pearl_Jam_album)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/Pearl_Jam_-_Dark_Matter.png",
+        "altText": "Album cover of Dark Matter by Pearl Jam",
+        "text": "Dark Matter is the twelfth studio album by American rock band Pearl Jam, released on April 19, 2024, through Monkeywrench Records and Republic Records.",
+        "artist": "Pearl Jam"
+
+    },    
+    {
+        "title": "Presto",
+        "wikiLink": "https://en.wikipedia.org/wiki/Presto_(album)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Rush_Presto.jpg",
+        "altText": "Album cover of Presto by Rush",
+        "text": "Presto is the thirteenth studio album by Canadian rock band Rush. It was released on November 17, 1989 by Anthem Records and was the band's first album released internationally by Atlantic Records...",
+        "artist": "Rush"
+
+    },    
+    {
+        "title": "Cracked Rear View",
+        "wikiLink": "https://en.wikipedia.org/wiki/Cracked_Rear_View",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Hootie_%26_the_Blowfish_-_Cracked_Rear_View.jpg",
+        "altText": "Album cover of Cracked Rear View by Hootie and the Blowfish",
+        "text": "Cracked Rear View is the debut studio album by Hootie & the Blowfish, released on July 5, 1994, by Atlantic Records.",
+        "artist": "Hootie & the Blowfish"
+
+    },    
+    {
+        "title": "MM.. FOOD",
+        "wikiLink": "https://en.wikipedia.org/wiki/Mm..Food",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/Mmfood.jpg",
+        "altText": "Album cover of MM.. FOOD by MF DOOM",
+        "text": "Mm..Food (stylised in all caps) is the fifth studio album by British-American rapper and producer MF Doom, released through Rhymesayers on 16 November 2004.",
+        "artist": "MF DOOM"
+
+    },    
+    {
+        "title": "How to Save a Life",
+        "wikiLink": "https://en.wikipedia.org/wiki/How_to_Save_a_Life_(album)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/The_Fray_-_How_to_Save_a_Life.jpg",
+        "altText": "Album cover of How to Save a Life by The Fray",
+        "text": "How to Save a Life is the debut studio album by American alternative rock band The Fray. Released on September 13, 2005, by Epic Records...",
+        "artist": "The Fray"
+
+    },    
+    {
+        "title": "OK Computer",
+        "wikiLink": "https://en.wikipedia.org/wiki/OK_Computer",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+        "altText": "Album cover of OK Computer by Radiohead",
+        "text": "OK Computer is the third studio album by the English rock band Radiohead, released on 21 May 1997.",
+        "artist": "Radiohead"
+
+    },    
+    {
+        "title": "Yourself or Someone Like You",
+        "wikiLink": "https://en.wikipedia.org/wiki/Yourself_or_Someone_Like_You",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4e/Matchbox_Twenty_-_Yourself_or_Someone_Like_You.jpg",
+        "altText": "Album cover of Yourself or Someone Like You by Matchbox Twenty",
+        "text": "Yourself or Someone Like You is the debut album by American rock band Matchbox 20. It was released on October 1, 1996,[8] by Lava Records and Atlantic Records.",
+        "artist": "Matchbox 20"
+
+    },
+    {
+        "title": "(What's the Story) Morning Glory?",
+        "wikiLink": "https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Oasis_-_%28What%27s_The_Story%29_Morning_Glory_album_cover.jpg",
+        "altText": "Album cover of What's the Story Morning Glory? by Oasis",
+        "text": "(What's the Story) Morning Glory? is the second studio album by the English rock band Oasis. Released on 2 October 1995 by Creation Records...",
+        "artist": "Oasis"
+
+    },
+    {
+        "title": "Tango in the Night",
+        "wikiLink": "https://en.wikipedia.org/wiki/Tango_in_the_Night",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/97/Fleetwood_Mac_-_Tango_in_the_Night.png",
+        "altText": "Album cover of Tango in the Night by Fleetwood Mac",
+        "text": "Tango in the Night is the fourteenth studio album by British-American rock band Fleetwood Mac, released on 13 April 1987 by Warner Records.",
+        "artist": "Fleetwood Mac"
+
+    },
+    {
+        "title": "Happier Than Ever",
+        "wikiLink": "https://en.wikipedia.org/wiki/Happier_Than_Ever",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Billie_Eilish_-_Happier_Than_Ever.png",
+        "altText": "Album cover of Happier Than Ever by Billie Eilish",
+        "text": "Happier Than Ever is the second studio album by American singer-songwriter Billie Eilish, released by Darkroom and Interscope Records on July 30, 2021.",
+        "artist": "Billie Eilish"
+
+    },
+    {
+        "title": "Blue Banisters",
+        "wikiLink": "https://en.wikipedia.org/wiki/Blue_Banisters",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Lana_Del_Rey_-_Blue_Banisters_cover.png",
+        "altText": "Album cover of Blue Banisters by Lana Del Rey",
+        "text": "Blue Banisters is the eighth studio album by American singer-songwriter Lana Del Rey. It was released on October 22, 2021, by Interscope and Polydor Records, seven months after her previous record, Chemtrails over the Country Club.",
+        "artist": "Lana Del Rey"
+
+    },
+    {
+        "title": "Jar of Flies",
+        "wikiLink": "https://en.wikipedia.org/wiki/Jar_of_Flies",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Alice_in_Chains_Jar_of_Flies.jpg",
+        "altText": "Album cover of Jar of Flies by Alice in Chains",
+        "text": "Jar of Flies is the third studio EP by American rock band Alice in Chains. It was released on January 25, 1994, by Columbia Records.",
+        "artist": "Alice in Chains"
+
+    },
+    {
+        "title": "Violator",
+        "wikiLink": "https://en.wikipedia.org/wiki/Violator_(album)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/92/Depeche_Mode_-_Violator.png",
+        "altText": "Album cover of Violator by Depeche Mode",
+        "text": "Violator is the seventh studio album by English electronic music band Depeche Mode. It was first released on 19 March 1990 by Mute Records internationally...",
+        "artist": "Depeche Mode"
+
+    },
+    {
+        "title": "The College Dropout",
+        "wikiLink": "https://en.wikipedia.org/wiki/The_College_Dropout",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Kanyewest_collegedropout.jpg",
+        "altText": "Album cover of The College Dropout by Kanye West",
+        "text": "The College Dropout is the debut studio album by the American rapper Kanye West. It was released on February 10, 2004, by Roc-A-Fella Records and Def Jam Recordings.",
+        "artist": "Kanye West"
+
+    }
+
+]
