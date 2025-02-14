@@ -1,0 +1,28 @@
+body{
+    margin: 2em 10em;
+    background-color: rgb(63, 63, 63);
+}
+div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 20px;
+}
+header{
+    background-color: rgb(184, 184, 184);
+    padding: 2em;
+    border: #000 solid 4px;
+
+}
+section{
+    background-color: rgb(142, 142, 142);
+    padding: 0 20px;
+    border: #000 solid 4px;
+
+}
+a{
+    color: #000;
+}
+img{
+    border: #000 solid 4px;
+}
